@@ -1,0 +1,1393 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Astronomia Żagań//Katalog Zacmien//PL
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:eclipse-20360821T180317@żagań.astro
+DTSTAMP:20360821T180317Z
+DTSTART:20360821T171529Z
+DTEND:20360821T180716Z
+SUMMARY:Zaćmienie Słońce - Żagań (Obscuration 66.2%)
+DESCRIPTION:Zaćmienie SŁOŃCE widoczne z lokalizacji: Żagań.\nMaksimum: 2036-08-21 18:03:17 UTC\nMagnituda: 0.723\nObscuration / Powierzchnia: 66.2%\nWysokość: 0.4° | Azymut: 289.3°
+LOCATION:Żagań (51.6174°N\, 15.3082°E)
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Jutro zaćmienie SŁOŃCE - Żagań!
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:Za godzinę rozpocznie się zaćmienie SŁOŃCE!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:eclipse-20360807T025259@żagań.astro
+DTSTAMP:20360807T025259Z
+DTSTART:20360806T234916Z
+DTEND:20360807T034054Z
+SUMMARY:Zaćmienie Księżyc - Żagań (Obscuration 142.8%)
+DESCRIPTION:Zaćmienie KSIĘŻYC widoczne z lokalizacji: Żagań.\nMaksimum: 2036-08-07 02:52:59 UTC\nMagnituda: 1.428\nObscuration / Powierzchnia: 142.8%\nWysokość: 5.4° | Azymut: 234.3°
+LOCATION:Żagań (51.6174°N\, 15.3082°E)
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Jutro zaćmienie KSIĘŻYC - Żagań!
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:Za godzinę rozpocznie się zaćmienie KSIĘŻYC!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:eclipse-20360211T221244@żagań.astro
+DTSTAMP:20360211T221244Z
+DTSTART:20360211T193659Z
+DTEND:20360212T004829Z
+SUMMARY:Zaćmienie Księżyc - Żagań (Obscuration 127.5%)
+DESCRIPTION:Zaćmienie KSIĘŻYC widoczne z lokalizacji: Żagań.\nMaksimum: 2036-02-11 22:12:44 UTC\nMagnituda: 1.275\nObscuration / Powierzchnia: 127.5%\nWysokość: 49.5° | Azymut: 156.9°
+LOCATION:Żagań (51.6174°N\, 15.3082°E)
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Jutro zaćmienie KSIĘŻYC - Żagań!
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:Za godzinę rozpocznie się zaćmienie KSIĘŻYC!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:eclipse-20350819T011219@żagań.astro
+DTSTAMP:20350819T011219Z
+DTSTART:20350818T224833Z
+DTEND:20350819T033206Z
+SUMMARY:Zaćmienie Księżyc - Żagań (Obscuration 7.8%)
+DESCRIPTION:Zaćmienie KSIĘŻYC widoczne z lokalizacji: Żagań.\nMaksimum: 2035-08-19 01:12:19 UTC\nMagnituda: 0.078\nObscuration / Powierzchnia: 7.8%\nWysokość: 19.5° | Azymut: 214.3°
+LOCATION:Żagań (51.6174°N\, 15.3082°E)
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Jutro zaćmienie KSIĘŻYC - Żagań!
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:Za godzinę rozpocznie się zaćmienie KSIĘŻYC!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:eclipse-20340928T024453@żagań.astro
+DTSTAMP:20340928T024453Z
+DTSTART:20340928T004504Z
+DTEND:20340928T044841Z
+SUMMARY:Zaćmienie Księżyc - Żagań (Obscuration 0.0%)
+DESCRIPTION:Zaćmienie KSIĘŻYC widoczne z lokalizacji: Żagań.\nMaksimum: 2034-09-28 02:44:53 UTC\nMagnituda: 0.0\nObscuration / Powierzchnia: 0.0%\nWysokość: 18.9° | Azymut: 245.0°
+LOCATION:Żagań (51.6174°N\, 15.3082°E)
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Jutro zaćmienie KSIĘŻYC - Żagań!
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:Za godzinę rozpocznie się zaćmienie KSIĘŻYC!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:eclipse-20340403T190656@żagań.astro
+DTSTAMP:20340403T190656Z
+DTSTART:20340403T172306Z
+DTEND:20340403T211444Z
+SUMMARY:Zaćmienie Księżyc - Żagań (Obscuration 0.0%)
+DESCRIPTION:Zaćmienie KSIĘŻYC widoczne z lokalizacji: Żagań.\nMaksimum: 2034-04-03 19:06:56 UTC\nMagnituda: 0.0\nObscuration / Powierzchnia: 0.0%\nWysokość: 14.0° | Azymut: 117.8°
+LOCATION:Żagań (51.6174°N\, 15.3082°E)
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Jutro zaćmienie KSIĘŻYC - Żagań!
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:Za godzinę rozpocznie się zaćmienie KSIĘŻYC!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:eclipse-20340320T104229@żagań.astro
+DTSTAMP:20340320T104229Z
+DTSTART:20340320T101037Z
+DTEND:20340320T111422Z
+SUMMARY:Zaćmienie Słońce - Żagań (Obscuration 4.4%)
+DESCRIPTION:Zaćmienie SŁOŃCE widoczne z lokalizacji: Żagań.\nMaksimum: 2034-03-20 10:42:29 UTC\nMagnituda: 0.11\nObscuration / Powierzchnia: 4.4%\nWysokość: 38.1° | Azymut: 172.5°
+LOCATION:Żagań (51.6174°N\, 15.3082°E)
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Jutro zaćmienie SŁOŃCE - Żagań!
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:Za godzinę rozpocznie się zaćmienie SŁOŃCE!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:eclipse-20330414T191325@żagań.astro
+DTSTAMP:20330414T191325Z
+DTSTART:20330414T174533Z
+DTEND:20330414T220908Z
+SUMMARY:Zaćmienie Księżyc - Żagań (Obscuration 106.9%)
+DESCRIPTION:Zaćmienie KSIĘŻYC widoczne z lokalizacji: Żagań.\nMaksimum: 2033-04-14 19:13:25 UTC\nMagnituda: 1.069\nObscuration / Powierzchnia: 106.9%\nWysokość: 11.3° | Azymut: 122.7°
+LOCATION:Żagań (51.6174°N\, 15.3082°E)
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Jutro zaćmienie KSIĘŻYC - Żagań!
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:Za godzinę rozpocznie się zaćmienie KSIĘŻYC!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:eclipse-20321018T190209@żagań.astro
+DTSTAMP:20321018T190209Z
+DTSTART:20321018T162624Z
+DTEND:20321018T213754Z
+SUMMARY:Zaćmienie Księżyc - Żagań (Obscuration 107.8%)
+DESCRIPTION:Zaćmienie KSIĘŻYC widoczne z lokalizacji: Żagań.\nMaksimum: 2032-10-18 19:02:09 UTC\nMagnituda: 1.078\nObscuration / Powierzchnia: 107.8%\nWysokość: 28.5° | Azymut: 112.0°
+LOCATION:Żagań (51.6174°N\, 15.3082°E)
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Jutro zaćmienie KSIĘŻYC - Żagań!
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:Za godzinę rozpocznie się zaćmienie KSIĘŻYC!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:eclipse-20311030T055253@żagań.astro
+DTSTAMP:20311030T055253Z
+DTSTART:20311030T055253Z
+DTEND:20311030T055253Z
+SUMMARY:Zaćmienie Księżyc - Żagań (Obscuration 0.0%)
+DESCRIPTION:Zaćmienie KSIĘŻYC widoczne z lokalizacji: Żagań.\nMaksimum: 2031-10-30 05:52:53 UTC\nMagnituda: 0.0\nObscuration / Powierzchnia: 0.0%\nWysokość: -0.2° | Azymut: 293.7°
+LOCATION:Żagań (51.6174°N\, 15.3082°E)
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Jutro zaćmienie KSIĘŻYC - Żagań!
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:Za godzinę rozpocznie się zaćmienie KSIĘŻYC!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:eclipse-20310507T031556@żagań.astro
+DTSTAMP:20310507T031556Z
+DTSTART:20310507T015604Z
+DTEND:20310507T031556Z
+SUMMARY:Zaćmienie Księżyc - Żagań (Obscuration 0.0%)
+DESCRIPTION:Zaćmienie KSIĘŻYC widoczne z lokalizacji: Żagań.\nMaksimum: 2031-05-07 03:15:56 UTC\nMagnituda: 0.0\nObscuration / Powierzchnia: 0.0%\nWysokość: -0.1° | Azymut: 240.2°
+LOCATION:Żagań (51.6174°N\, 15.3082°E)
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Jutro zaćmienie KSIĘŻYC - Żagań!
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:Za godzinę rozpocznie się zaćmienie KSIĘŻYC!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:eclipse-20301209T222829@żagań.astro
+DTSTAMP:20301209T222829Z
+DTSTART:20301209T201243Z
+DTEND:20301210T004416Z
+SUMMARY:Zaćmienie Księżyc - Żagań (Obscuration 0.0%)
+DESCRIPTION:Zaćmienie KSIĘŻYC widoczne z lokalizacji: Żagań.\nMaksimum: 2030-12-09 22:28:29 UTC\nMagnituda: 0.0\nObscuration / Powierzchnia: 0.0%\nWysokość: 59.5° | Azymut: 169.4°
+LOCATION:Żagań (51.6174°N\, 15.3082°E)
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Jutro zaćmienie KSIĘŻYC - Żagań!
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:Za godzinę rozpocznie się zaćmienie KSIĘŻYC!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:eclipse-20300615T190859@żagań.astro
+DTSTAMP:20300615T190859Z
+DTSTART:20300615T190859Z
+DTEND:20300615T204849Z
+SUMMARY:Zaćmienie Księżyc - Żagań (Obscuration 34.0%)
+DESCRIPTION:Zaćmienie KSIĘŻYC widoczne z lokalizacji: Żagań.\nMaksimum: 2030-06-15 19:08:59 UTC\nMagnituda: 0.34\nObscuration / Powierzchnia: 34.0%\nWysokość: -0.2° | Azymut: 128.5°
+LOCATION:Żagań (51.6174°N\, 15.3082°E)
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Jutro zaćmienie KSIĘŻYC - Żagań!
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:Za godzinę rozpocznie się zaćmienie KSIĘŻYC!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:eclipse-20300601T052136@żagań.astro
+DTSTAMP:20300601T052136Z
+DTSTART:20300601T041751Z
+DTEND:20300601T062920Z
+SUMMARY:Zaćmienie Słońce - Żagań (Obscuration 59.7%)
+DESCRIPTION:Zaćmienie SŁOŃCE widoczne z lokalizacji: Żagań.\nMaksimum: 2030-06-01 05:21:36 UTC\nMagnituda: 0.689\nObscuration / Powierzchnia: 59.7%\nWysokość: 21.0° | Azymut: 80.5°
+LOCATION:Żagań (51.6174°N\, 15.3082°E)
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Jutro zaćmienie SŁOŃCE - Żagań!
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:Za godzinę rozpocznie się zaćmienie SŁOŃCE!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:eclipse-20291220T224232@żagań.astro
+DTSTAMP:20291220T224232Z
+DTSTART:20291220T194649Z
+DTEND:20291221T013815Z
+SUMMARY:Zaćmienie Księżyc - Żagań (Obscuration 109.2%)
+DESCRIPTION:Zaćmienie KSIĘŻYC widoczne z lokalizacji: Żagań.\nMaksimum: 2029-12-20 22:42:32 UTC\nMagnituda: 1.092\nObscuration / Powierzchnia: 109.2%\nWysokość: 60.9° | Azymut: 173.3°
+LOCATION:Żagań (51.6174°N\, 15.3082°E)
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Jutro zaćmienie KSIĘŻYC - Żagań!
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:Za godzinę rozpocznie się zaćmienie KSIĘŻYC!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:eclipse-20290626T024625@żagań.astro
+DTSTAMP:20290626T024625Z
+DTSTART:20290626T003837Z
+DTEND:20290626T024625Z
+SUMMARY:Zaćmienie Księżyc - Żagań (Obscuration 123.2%)
+DESCRIPTION:Zaćmienie KSIĘŻYC widoczne z lokalizacji: Żagań.\nMaksimum: 2029-06-26 02:46:25 UTC\nMagnituda: 1.232\nObscuration / Powierzchnia: 123.2%\nWysokość: -0.2° | Azymut: 230.0°
+LOCATION:Żagań (51.6174°N\, 15.3082°E)
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Jutro zaćmienie KSIĘŻYC - Żagań!
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:Za godzinę rozpocznie się zaćmienie KSIĘŻYC!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:eclipse-20290612T025447@żagań.astro
+DTSTAMP:20290612T025447Z
+DTSTART:20290612T024250Z
+DTEND:20290612T032240Z
+SUMMARY:Zaćmienie Słońce - Żagań (Obscuration 6.7%)
+DESCRIPTION:Zaćmienie SŁOŃCE widoczne z lokalizacji: Żagań.\nMaksimum: 2029-06-12 02:54:47 UTC\nMagnituda: 0.149\nObscuration / Powierzchnia: 6.7%\nWysokość: 1.2° | Azymut: 52.0°
+LOCATION:Żagań (51.6174°N\, 15.3082°E)
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Jutro zaćmienie SŁOŃCE - Żagań!
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:Za godzinę rozpocznie się zaćmienie SŁOŃCE!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:eclipse-20281231T165231@żagań.astro
+DTSTAMP:20281231T165231Z
+DTSTART:20281231T144444Z
+DTEND:20281231T193616Z
+SUMMARY:Zaćmienie Księżyc - Żagań (Obscuration 122.1%)
+DESCRIPTION:Zaćmienie KSIĘŻYC widoczne z lokalizacji: Żagań.\nMaksimum: 2028-12-31 16:52:31 UTC\nMagnituda: 1.221\nObscuration / Powierzchnia: 122.1%\nWysokość: 15.7° | Azymut: 73.2°
+LOCATION:Żagań (51.6174°N\, 15.3082°E)
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Jutro zaćmienie KSIĘŻYC - Żagań!
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:Za godzinę rozpocznie się zaćmienie KSIĘŻYC!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:eclipse-20280706T191843@żagań.astro
+DTSTAMP:20280706T191843Z
+DTSTART:20280706T191843Z
+DTEND:20280706T205034Z
+SUMMARY:Zaćmienie Księżyc - Żagań (Obscuration 8.4%)
+DESCRIPTION:Zaćmienie KSIĘŻYC widoczne z lokalizacji: Żagań.\nMaksimum: 2028-07-06 19:18:43 UTC\nMagnituda: 0.084\nObscuration / Powierzchnia: 8.4%\nWysokość: -0.1° | Azymut: 129.6°
+LOCATION:Żagań (51.6174°N\, 15.3082°E)
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Jutro zaćmienie KSIĘŻYC - Żagań!
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:Za godzinę rozpocznie się zaćmienie KSIĘŻYC!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:eclipse-20280112T041104@żagań.astro
+DTSTAMP:20280112T041104Z
+DTSTART:20280112T021116Z
+DTEND:20280112T061453Z
+SUMMARY:Zaćmienie Księżyc - Żagań (Obscuration 4.1%)
+DESCRIPTION:Zaćmienie KSIĘŻYC widoczne z lokalizacji: Żagań.\nMaksimum: 2028-01-12 04:11:04 UTC\nMagnituda: 0.041\nObscuration / Powierzchnia: 4.1%\nWysokość: 25.4° | Azymut: 274.0°
+LOCATION:Żagań (51.6174°N\, 15.3082°E)
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Jutro zaćmienie KSIĘŻYC - Żagań!
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:Za godzinę rozpocznie się zaćmienie KSIĘŻYC!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:eclipse-20270802T091726@żagań.astro
+DTSTAMP:20270802T091726Z
+DTSTART:20270802T082139Z
+DTEND:20270802T101312Z
+SUMMARY:Zaćmienie Słońce - Żagań (Obscuration 35.9%)
+DESCRIPTION:Zaćmienie SŁOŃCE widoczne z lokalizacji: Żagań.\nMaksimum: 2027-08-02 09:17:26 UTC\nMagnituda: 0.464\nObscuration / Powierzchnia: 35.9%\nWysokość: 50.1° | Azymut: 137.8°
+LOCATION:Żagań (51.6174°N\, 15.3082°E)
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Jutro zaćmienie SŁOŃCE - Żagań!
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:Za godzinę rozpocznie się zaćmienie SŁOŃCE!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:eclipse-20270220T231140@żagań.astro
+DTSTAMP:20270220T231140Z
+DTSTART:20270220T211551Z
+DTEND:20270221T010729Z
+SUMMARY:Zaćmienie Księżyc - Żagań (Obscuration 0.0%)
+DESCRIPTION:Zaćmienie KSIĘŻYC widoczne z lokalizacji: Żagań.\nMaksimum: 2027-02-20 23:11:40 UTC\nMagnituda: 0.0\nObscuration / Powierzchnia: 0.0%\nWysokość: 47.5° | Azymut: 180.4°
+LOCATION:Żagań (51.6174°N\, 15.3082°E)
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Jutro zaćmienie KSIĘŻYC - Żagań!
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:Za godzinę rozpocznie się zaćmienie KSIĘŻYC!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:eclipse-20260828T041033@żagań.astro
+DTSTAMP:20260828T041033Z
+DTSTART:20260828T012649Z
+DTEND:20260828T041033Z
+SUMMARY:Zaćmienie Księżyc - Żagań (Obscuration 90.4%)
+DESCRIPTION:Zaćmienie KSIĘŻYC widoczne z lokalizacji: Żagań.\nMaksimum: 2026-08-28 04:10:33 UTC\nMagnituda: 0.904\nObscuration / Powierzchnia: 90.4%\nWysokość: -0.2° | Azymut: 254.7°
+LOCATION:Żagań (51.6174°N\, 15.3082°E)
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Jutro zaćmienie KSIĘŻYC - Żagań!
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:Za godzinę rozpocznie się zaćmienie KSIĘŻYC!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:eclipse-20260812T180837@żagań.astro
+DTSTAMP:20260812T180837Z
+DTSTART:20260812T171650Z
+DTEND:20260812T182833Z
+SUMMARY:Zaćmienie Słońce - Żagań (Obscuration 84.8%)
+DESCRIPTION:Zaćmienie SŁOŃCE widoczne z lokalizacji: Żagań.\nMaksimum: 2026-08-12 18:08:37 UTC\nMagnituda: 0.874\nObscuration / Powierzchnia: 84.8%\nWysokość: 2.2° | Azymut: 291.7°
+LOCATION:Żagań (51.6174°N\, 15.3082°E)
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Jutro zaćmienie SŁOŃCE - Żagań!
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:Za godzinę rozpocznie się zaćmienie SŁOŃCE!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:eclipse-20250907T181253@żagań.astro
+DTSTAMP:20250907T181253Z
+DTSTART:20250907T172858Z
+DTEND:20250907T205238Z
+SUMMARY:Zaćmienie Księżyc - Żagań (Obscuration 133.7%)
+DESCRIPTION:Zaćmienie KSIĘŻYC widoczne z lokalizacji: Żagań.\nMaksimum: 2025-09-07 18:12:53 UTC\nMagnituda: 1.337\nObscuration / Powierzchnia: 133.7%\nWysokość: 6.0° | Azymut: 108.7°
+LOCATION:Żagań (51.6174°N\, 15.3082°E)
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Jutro zaćmienie KSIĘŻYC - Żagań!
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:Za godzinę rozpocznie się zaćmienie KSIĘŻYC!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:eclipse-20250329T112144@żagań.astro
+DTSTAMP:20250329T112144Z
+DTSTART:20250329T103755Z
+DTEND:20250329T120135Z
+SUMMARY:Zaćmienie Słońce - Żagań (Obscuration 11.8%)
+DESCRIPTION:Zaćmienie SŁOŃCE widoczne z lokalizacji: Żagań.\nMaksimum: 2025-03-29 11:21:44 UTC\nMagnituda: 0.216\nObscuration / Powierzchnia: 11.8%\nWysokość: 41.8° | Azymut: 186.1°
+LOCATION:Żagań (51.6174°N\, 15.3082°E)
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Jutro zaćmienie SŁOŃCE - Żagań!
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:Za godzinę rozpocznie się zaćmienie SŁOŃCE!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:eclipse-20250314T051848@żagań.astro
+DTSTAMP:20250314T051848Z
+DTSTART:20250314T040256Z
+DTEND:20250314T051848Z
+SUMMARY:Zaćmienie Księżyc - Żagań (Obscuration 10.7%)
+DESCRIPTION:Zaćmienie KSIĘŻYC widoczne z lokalizacji: Żagań.\nMaksimum: 2025-03-14 05:18:48 UTC\nMagnituda: 0.107\nObscuration / Powierzchnia: 10.7%\nWysokość: 0.1° | Azymut: 274.5°
+LOCATION:Żagań (51.6174°N\, 15.3082°E)
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Jutro zaćmienie KSIĘŻYC - Żagań!
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:Za godzinę rozpocznie się zaćmienie KSIĘŻYC!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:eclipse-20240918T024227@żagań.astro
+DTSTAMP:20240918T024227Z
+DTSTART:20240918T004639Z
+DTEND:20240918T044216Z
+SUMMARY:Zaćmienie Księżyc - Żagań (Obscuration 5.9%)
+DESCRIPTION:Zaćmienie KSIĘŻYC widoczne z lokalizacji: Żagań.\nMaksimum: 2024-09-18 02:42:27 UTC\nMagnituda: 0.059\nObscuration / Powierzchnia: 5.9%\nWysokość: 16.7° | Azymut: 241.5°
+LOCATION:Żagań (51.6174°N\, 15.3082°E)
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Jutro zaćmienie KSIĘŻYC - Żagań!
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:Za godzinę rozpocznie się zaćmienie KSIĘŻYC!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:eclipse-20240325T045632@żagań.astro
+DTSTAMP:20240325T045632Z
+DTSTART:20240325T045632Z
+DTEND:20240325T045632Z
+SUMMARY:Zaćmienie Księżyc - Żagań (Obscuration 0.0%)
+DESCRIPTION:Zaćmienie KSIĘŻYC widoczne z lokalizacji: Żagań.\nMaksimum: 2024-03-25 04:56:32 UTC\nMagnituda: 0.0\nObscuration / Powierzchnia: 0.0%\nWysokość: 0.1° | Azymut: 268.3°
+LOCATION:Żagań (51.6174°N\, 15.3082°E)
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Jutro zaćmienie KSIĘŻYC - Żagań!
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:Za godzinę rozpocznie się zaćmienie KSIĘŻYC!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:eclipse-20231028T201604@żagań.astro
+DTSTAMP:20231028T201604Z
+DTSTART:20231028T180416Z
+DTEND:20231028T222351Z
+SUMMARY:Zaćmienie Księżyc - Żagań (Obscuration 9.6%)
+DESCRIPTION:Zaćmienie KSIĘŻYC widoczne z lokalizacji: Żagań.\nMaksimum: 2023-10-28 20:16:04 UTC\nMagnituda: 0.096\nObscuration / Powierzchnia: 9.6%\nWysokość: 41.9° | Azymut: 128.9°
+LOCATION:Żagań (51.6174°N\, 15.3082°E)
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Jutro zaćmienie KSIĘŻYC - Żagań!
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:Za godzinę rozpocznie się zaćmienie KSIĘŻYC!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:eclipse-20230505T182958@żagań.astro
+DTSTAMP:20230505T182958Z
+DTSTART:20230505T182958Z
+DTEND:20230505T192553Z
+SUMMARY:Zaćmienie Księżyc - Żagań (Obscuration 0.0%)
+DESCRIPTION:Zaćmienie KSIĘŻYC widoczne z lokalizacji: Żagań.\nMaksimum: 2023-05-05 18:29:58 UTC\nMagnituda: 0.0\nObscuration / Powierzchnia: 0.0%\nWysokość: -0.3° | Azymut: 119.0°
+LOCATION:Żagań (51.6174°N\, 15.3082°E)
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Jutro zaćmienie KSIĘŻYC - Żagań!
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:Za godzinę rozpocznie się zaćmienie KSIĘŻYC!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:eclipse-20221025T101650@żagań.astro
+DTSTAMP:20221025T101650Z
+DTSTART:20221025T091306Z
+DTEND:20221025T112035Z
+SUMMARY:Zaćmienie Słońce - Żagań (Obscuration 33.4%)
+DESCRIPTION:Zaćmienie SŁOŃCE widoczne z lokalizacji: Żagań.\nMaksimum: 2022-10-25 10:16:50 UTC\nMagnituda: 0.448\nObscuration / Powierzchnia: 33.4%\nWysokość: 26.0° | Azymut: 172.9°
+LOCATION:Żagań (51.6174°N\, 15.3082°E)
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Jutro zaćmienie SŁOŃCE - Żagań!
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:Za godzinę rozpocznie się zaćmienie SŁOŃCE!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:eclipse-20220516T030616@żagań.astro
+DTSTAMP:20220516T030616Z
+DTSTART:20220516T013425Z
+DTEND:20220516T030616Z
+SUMMARY:Zaćmienie Księżyc - Żagań (Obscuration 61.6%)
+DESCRIPTION:Zaćmienie KSIĘŻYC widoczne z lokalizacji: Żagań.\nMaksimum: 2022-05-16 03:06:16 UTC\nMagnituda: 0.616\nObscuration / Powierzchnia: 61.6%\nWysokość: -0.1° | Azymut: 237.7°
+LOCATION:Żagań (51.6174°N\, 15.3082°E)
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Jutro zaćmienie KSIĘŻYC - Żagań!
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:Za godzinę rozpocznie się zaćmienie KSIĘŻYC!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:eclipse-20211119T062143@żagań.astro
+DTSTAMP:20211119T062143Z
+DTSTART:20211119T060544Z
+DTEND:20211119T062143Z
+SUMMARY:Zaćmienie Księżyc - Żagań (Obscuration 0.0%)
+DESCRIPTION:Zaćmienie KSIĘŻYC widoczne z lokalizacji: Żagań.\nMaksimum: 2021-11-19 06:21:43 UTC\nMagnituda: 0.0\nObscuration / Powierzchnia: 0.0%\nWysokość: -0.3° | Azymut: 301.2°
+LOCATION:Żagań (51.6174°N\, 15.3082°E)
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Jutro zaćmienie KSIĘŻYC - Żagań!
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:Za godzinę rozpocznie się zaćmienie KSIĘŻYC!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:eclipse-20210610T104042@żagań.astro
+DTSTAMP:20210610T104042Z
+DTSTART:20210610T094455Z
+DTEND:20210610T114027Z
+SUMMARY:Zaćmienie Słońce - Żagań (Obscuration 10.8%)
+DESCRIPTION:Zaćmienie SŁOŃCE widoczne z lokalizacji: Żagań.\nMaksimum: 2021-06-10 10:40:42 UTC\nMagnituda: 0.207\nObscuration / Powierzchnia: 10.8%\nWysokość: 61.2° | Azymut: 171.6°
+LOCATION:Żagań (51.6174°N\, 15.3082°E)
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Jutro zaćmienie SŁOŃCE - Żagań!
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:Za godzinę rozpocznie się zaćmienie SŁOŃCE!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:eclipse-20200605T192422@żagań.astro
+DTSTAMP:20200605T192422Z
+DTSTART:20200605T185625Z
+DTEND:20200605T210013Z
+SUMMARY:Zaćmienie Księżyc - Żagań (Obscuration 0.0%)
+DESCRIPTION:Zaćmienie KSIĘŻYC widoczne z lokalizacji: Żagań.\nMaksimum: 2020-06-05 19:24:22 UTC\nMagnituda: 0.0\nObscuration / Powierzchnia: 0.0%\nWysokość: 2.5° | Azymut: 131.4°
+LOCATION:Żagań (51.6174°N\, 15.3082°E)
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Jutro zaćmienie KSIĘŻYC - Żagań!
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:Za godzinę rozpocznie się zaćmienie KSIĘŻYC!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:eclipse-20200110T190919@żagań.astro
+DTSTAMP:20200110T190919Z
+DTSTART:20200110T171331Z
+DTEND:20200110T210908Z
+SUMMARY:Zaćmienie Księżyc - Żagań (Obscuration 0.0%)
+DESCRIPTION:Zaćmienie KSIĘŻYC widoczne z lokalizacji: Żagań.\nMaksimum: 2020-01-10 19:09:19 UTC\nMagnituda: 0.0\nObscuration / Powierzchnia: 0.0%\nWysokość: 36.0° | Azymut: 99.1°
+LOCATION:Żagań (51.6174°N\, 15.3082°E)
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Jutro zaćmienie KSIĘŻYC - Żagań!
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:Za godzinę rozpocznie się zaćmienie KSIĘŻYC!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:eclipse-20190716T213014@żagań.astro
+DTSTAMP:20190716T213014Z
+DTSTART:20190716T190228Z
+DTEND:20190717T001358Z
+SUMMARY:Zaćmienie Księżyc - Żagań (Obscuration 62.8%)
+DESCRIPTION:Zaćmienie KSIĘŻYC widoczne z lokalizacji: Żagań.\nMaksimum: 2019-07-16 21:30:14 UTC\nMagnituda: 0.628\nObscuration / Powierzchnia: 62.8%\nWysokość: 12.8° | Azymut: 157.4°
+LOCATION:Żagań (51.6174°N\, 15.3082°E)
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Jutro zaćmienie KSIĘŻYC - Żagań!
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:Za godzinę rozpocznie się zaćmienie KSIĘŻYC!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:eclipse-20190121T051205@żagań.astro
+DTSTAMP:20190121T051205Z
+DTSTART:20190121T024020Z
+DTEND:20190121T070354Z
+SUMMARY:Zaćmienie Księżyc - Żagań (Obscuration 117.0%)
+DESCRIPTION:Zaćmienie KSIĘŻYC widoczne z lokalizacji: Żagań.\nMaksimum: 2019-01-21 05:12:05 UTC\nMagnituda: 1.17\nObscuration / Powierzchnia: 117.0%\nWysokość: 14.6° | Azymut: 283.3°
+LOCATION:Żagań (51.6174°N\, 15.3082°E)
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Jutro zaćmienie KSIĘŻYC - Żagań!
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:Za godzinę rozpocznie się zaćmienie KSIĘŻYC!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:eclipse-20180727T202021@żagań.astro
+DTSTAMP:20180727T202021Z
+DTSTART:20180727T184830Z
+DTEND:20180727T232403Z
+SUMMARY:Zaćmienie Księżyc - Żagań (Obscuration 158.2%)
+DESCRIPTION:Zaćmienie KSIĘŻYC widoczne z lokalizacji: Żagań.\nMaksimum: 2018-07-27 20:20:21 UTC\nMagnituda: 1.582\nObscuration / Powierzchnia: 158.2%\nWysokość: 10.0° | Azymut: 140.6°
+LOCATION:Żagań (51.6174°N\, 15.3082°E)
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Jutro zaćmienie KSIĘŻYC - Żagań!
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:Za godzinę rozpocznie się zaćmienie KSIĘŻYC!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:eclipse-20180131T155030@żagań.astro
+DTSTAMP:20180131T155030Z
+DTSTART:20180131T155030Z
+DTEND:20180131T160628Z
+SUMMARY:Zaćmienie Księżyc - Żagań (Obscuration 0.0%)
+DESCRIPTION:Zaćmienie KSIĘŻYC widoczne z lokalizacji: Żagań.\nMaksimum: 2018-01-31 15:50:30 UTC\nMagnituda: 0.0\nObscuration / Powierzchnia: 0.0%\nWysokość: -0.1° | Azymut: 62.8°
+LOCATION:Żagań (51.6174°N\, 15.3082°E)
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Jutro zaćmienie KSIĘŻYC - Żagań!
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:Za godzinę rozpocznie się zaćmienie KSIĘŻYC!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:eclipse-20170807T182635@żagań.astro
+DTSTAMP:20170807T182635Z
+DTSTART:20170807T182635Z
+DTEND:20170807T204622Z
+SUMMARY:Zaćmienie Księżyc - Żagań (Obscuration 21.8%)
+DESCRIPTION:Zaćmienie KSIĘŻYC widoczne z lokalizacji: Żagań.\nMaksimum: 2017-08-07 18:26:35 UTC\nMagnituda: 0.218\nObscuration / Powierzchnia: 21.8%\nWysokość: -0.2° | Azymut: 115.6°
+LOCATION:Żagań (51.6174°N\, 15.3082°E)
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Jutro zaćmienie KSIĘŻYC - Żagań!
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:Za godzinę rozpocznie się zaćmienie KSIĘŻYC!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:eclipse-20170211T004451@żagań.astro
+DTSTAMP:20170211T004451Z
+DTSTART:20170210T223704Z
+DTEND:20170211T024839Z
+SUMMARY:Zaćmienie Księżyc - Żagań (Obscuration 0.0%)
+DESCRIPTION:Zaćmienie KSIĘŻYC widoczne z lokalizacji: Żagań.\nMaksimum: 2017-02-11 00:44:51 UTC\nMagnituda: 0.0\nObscuration / Powierzchnia: 0.0%\nWysokość: 46.5° | Azymut: 214.3°
+LOCATION:Żagań (51.6174°N\, 15.3082°E)
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Jutro zaćmienie KSIĘŻYC - Żagań!
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:Za godzinę rozpocznie się zaćmienie KSIĘŻYC!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:eclipse-20160916T185307@żagań.astro
+DTSTAMP:20160916T185307Z
+DTSTART:20160916T170917Z
+DTEND:20160916T204856Z
+SUMMARY:Zaćmienie Księżyc - Żagań (Obscuration 0.0%)
+DESCRIPTION:Zaćmienie KSIĘŻYC widoczne z lokalizacji: Żagań.\nMaksimum: 2016-09-16 18:53:07 UTC\nMagnituda: 0.0\nObscuration / Powierzchnia: 0.0%\nWysokość: 14.3° | Azymut: 115.9°
+LOCATION:Żagań (51.6174°N\, 15.3082°E)
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Jutro zaćmienie KSIĘŻYC - Żagań!
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:Za godzinę rozpocznie się zaćmienie KSIĘŻYC!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:eclipse-20150928T024630@żagań.astro
+DTSTAMP:20150928T024630Z
+DTSTART:20150928T001445Z
+DTEND:20150928T050217Z
+SUMMARY:Zaćmienie Księżyc - Żagań (Obscuration 125.2%)
+DESCRIPTION:Zaćmienie KSIĘŻYC widoczne z lokalizacji: Żagań.\nMaksimum: 2015-09-28 02:46:30 UTC\nMagnituda: 1.252\nObscuration / Powierzchnia: 125.2%\nWysokość: 18.9° | Azymut: 245.8°
+LOCATION:Żagań (51.6174°N\, 15.3082°E)
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Jutro zaćmienie KSIĘŻYC - Żagań!
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:Za godzinę rozpocznie się zaćmienie KSIĘŻYC!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:eclipse-20150320T094808@żagań.astro
+DTSTAMP:20150320T094808Z
+DTSTART:20150320T084025Z
+DTEND:20150320T105951Z
+SUMMARY:Zaćmienie Słońce - Żagań (Obscuration 70.7%)
+DESCRIPTION:Zaćmienie SŁOŃCE widoczne z lokalizacji: Żagań.\nMaksimum: 2015-03-20 09:48:08 UTC\nMagnituda: 0.76\nObscuration / Powierzchnia: 70.7%\nWysokość: 35.6° | Azymut: 155.7°
+LOCATION:Żagań (51.6174°N\, 15.3082°E)
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Jutro zaćmienie SŁOŃCE - Żagań!
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:Za godzinę rozpocznie się zaćmienie SŁOŃCE!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:eclipse-20131018T234939@żagań.astro
+DTSTAMP:20131018T234939Z
+DTSTART:20131018T215350Z
+DTEND:20131019T014527Z
+SUMMARY:Zaćmienie Księżyc - Żagań (Obscuration 0.0%)
+DESCRIPTION:Zaćmienie KSIĘŻYC widoczne z lokalizacji: Żagań.\nMaksimum: 2013-10-18 23:49:39 UTC\nMagnituda: 0.0\nObscuration / Powierzchnia: 0.0%\nWysokość: 46.5° | Azymut: 204.6°
+LOCATION:Żagań (51.6174°N\, 15.3082°E)
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Jutro zaćmienie KSIĘŻYC - Żagań!
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:Za godzinę rozpocznie się zaćmienie KSIĘŻYC!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:eclipse-20130425T200906@żagań.astro
+DTSTAMP:20130425T200906Z
+DTSTART:20130425T180917Z
+DTEND:20130425T220854Z
+SUMMARY:Zaćmienie Księżyc - Żagań (Obscuration 0.0%)
+DESCRIPTION:Zaćmienie KSIĘŻYC widoczne z lokalizacji: Żagań.\nMaksimum: 2013-04-25 20:09:06 UTC\nMagnituda: 0.0\nObscuration / Powierzchnia: 0.0%\nWysokość: 13.8° | Azymut: 138.3°
+LOCATION:Żagań (51.6174°N\, 15.3082°E)
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Jutro zaćmienie KSIĘŻYC - Żagań!
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:Za godzinę rozpocznie się zaćmienie KSIĘŻYC!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:eclipse-20121128T145755@żagań.astro
+DTSTAMP:20121128T145755Z
+DTSTART:20121128T145755Z
+DTEND:20121128T164544Z
+SUMMARY:Zaćmienie Księżyc - Żagań (Obscuration 0.0%)
+DESCRIPTION:Zaćmienie KSIĘŻYC widoczne z lokalizacji: Żagań.\nMaksimum: 2012-11-28 14:57:55 UTC\nMagnituda: 0.0\nObscuration / Powierzchnia: 0.0%\nWysokość: -0.0° | Azymut: 56.2°
+LOCATION:Żagań (51.6174°N\, 15.3082°E)
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Jutro zaćmienie KSIĘŻYC - Żagań!
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:Za godzinę rozpocznie się zaćmienie KSIĘŻYC!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:eclipse-20111210T144822@żagań.astro
+DTSTAMP:20111210T144822Z
+DTSTART:20111210T144822Z
+DTEND:20111210T172807Z
+SUMMARY:Zaćmienie Księżyc - Żagań (Obscuration 103.5%)
+DESCRIPTION:Zaćmienie KSIĘŻYC widoczne z lokalizacji: Żagań.\nMaksimum: 2011-12-10 14:48:22 UTC\nMagnituda: 1.035\nObscuration / Powierzchnia: 103.5%\nWysokość: 0.0° | Azymut: 52.4°
+LOCATION:Żagań (51.6174°N\, 15.3082°E)
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Jutro zaćmienie KSIĘŻYC - Żagań!
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:Za godzinę rozpocznie się zaćmienie KSIĘŻYC!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:eclipse-20110615T201335@żagań.astro
+DTSTAMP:20110615T201335Z
+DTSTART:20110615T190941Z
+DTEND:20110615T225719Z
+SUMMARY:Zaćmienie Księżyc - Żagań (Obscuration 167.4%)
+DESCRIPTION:Zaćmienie KSIĘŻYC widoczne z lokalizacji: Żagań.\nMaksimum: 2011-06-15 20:13:35 UTC\nMagnituda: 1.674\nObscuration / Powierzchnia: 167.4%\nWysokość: 6.0° | Azymut: 142.2°
+LOCATION:Żagań (51.6174°N\, 15.3082°E)
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Jutro zaćmienie KSIĘŻYC - Żagań!
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:Za godzinę rozpocznie się zaćmienie KSIĘŻYC!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:eclipse-20110104T082645@żagań.astro
+DTSTAMP:20110104T082645Z
+DTSTART:20110104T071104Z
+DTEND:20110104T095424Z
+SUMMARY:Zaćmienie Słońce - Żagań (Obscuration 73.6%)
+DESCRIPTION:Zaćmienie SŁOŃCE widoczne z lokalizacji: Żagań.\nMaksimum: 2011-01-04 08:26:45 UTC\nMagnituda: 0.805\nObscuration / Powierzchnia: 73.6%\nWysokość: 8.2° | Azymut: 143.9°
+LOCATION:Żagań (51.6174°N\, 15.3082°E)
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Jutro zaćmienie SŁOŃCE - Żagań!
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:Za godzinę rozpocznie się zaćmienie SŁOŃCE!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:eclipse-20101221T070934@żagań.astro
+DTSTAMP:20101221T070934Z
+DTSTART:20101221T053343Z
+DTEND:20101221T070934Z
+SUMMARY:Zaćmienie Księżyc - Żagań (Obscuration 54.6%)
+DESCRIPTION:Zaćmienie KSIĘŻYC widoczne z lokalizacji: Żagań.\nMaksimum: 2010-12-21 07:09:34 UTC\nMagnituda: 0.546\nObscuration / Powierzchnia: 54.6%\nWysokość: -0.3° | Azymut: 310.5°
+LOCATION:Żagań (51.6174°N\, 15.3082°E)
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Jutro zaćmienie KSIĘŻYC - Żagań!
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:Za godzinę rozpocznie się zaćmienie KSIĘŻYC!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:eclipse-20091231T192044@żagań.astro
+DTSTAMP:20091231T192044Z
+DTSTART:20091231T172056Z
+DTEND:20091231T212432Z
+SUMMARY:Zaćmienie Księżyc - Żagań (Obscuration 5.1%)
+DESCRIPTION:Zaćmienie KSIĘŻYC widoczne z lokalizacji: Żagań.\nMaksimum: 2009-12-31 19:20:44 UTC\nMagnituda: 0.051\nObscuration / Powierzchnia: 5.1%\nWysokość: 39.1° | Azymut: 101.5°
+LOCATION:Żagań (51.6174°N\, 15.3082°E)
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Jutro zaćmienie KSIĘŻYC - Żagań!
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:Za godzinę rozpocznie się zaćmienie KSIĘŻYC!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:eclipse-20090806T003853@żagań.astro
+DTSTAMP:20090806T003853Z
+DTSTART:20090805T231102Z
+DTEND:20090806T021045Z
+SUMMARY:Zaćmienie Księżyc - Żagań (Obscuration 0.0%)
+DESCRIPTION:Zaćmienie KSIĘŻYC widoczne z lokalizacji: Żagań.\nMaksimum: 2009-08-06 00:38:53 UTC\nMagnituda: 0.0\nObscuration / Powierzchnia: 0.0%\nWysokość: 18.8° | Azymut: 204.6°
+LOCATION:Żagań (51.6174°N\, 15.3082°E)
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Jutro zaćmienie KSIĘŻYC - Żagań!
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:Za godzinę rozpocznie się zaćmienie KSIĘŻYC!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:eclipse-20090209T160902@żagań.astro
+DTSTAMP:20090209T160902Z
+DTSTART:20090209T160902Z
+DTEND:20090209T163259Z
+SUMMARY:Zaćmienie Księżyc - Żagań (Obscuration 0.0%)
+DESCRIPTION:Zaćmienie KSIĘŻYC widoczne z lokalizacji: Żagań.\nMaksimum: 2009-02-09 16:09:02 UTC\nMagnituda: 0.0\nObscuration / Powierzchnia: 0.0%\nWysokość: 0.0° | Azymut: 69.1°
+LOCATION:Żagań (51.6174°N\, 15.3082°E)
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Jutro zaćmienie KSIĘŻYC - Żagań!
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:Za godzinę rozpocznie się zaćmienie KSIĘŻYC!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:eclipse-20080816T210828@żagań.astro
+DTSTAMP:20080816T210828Z
+DTSTART:20080816T182844Z
+DTEND:20080816T235213Z
+SUMMARY:Zaćmienie Księżyc - Żagań (Obscuration 78.2%)
+DESCRIPTION:Zaćmienie KSIĘŻYC widoczne z lokalizacji: Żagań.\nMaksimum: 2008-08-16 21:08:28 UTC\nMagnituda: 0.782\nObscuration / Powierzchnia: 78.2%\nWysokość: 20.1° | Azymut: 150.3°
+LOCATION:Żagań (51.6174°N\, 15.3082°E)
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Jutro zaćmienie KSIĘŻYC - Żagań!
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:Za godzinę rozpocznie się zaćmienie KSIĘŻYC!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:eclipse-20080801T094042@żagań.astro
+DTSTAMP:20080801T094042Z
+DTSTART:20080801T084854Z
+DTEND:20080801T103229Z
+SUMMARY:Zaćmienie Słońce - Żagań (Obscuration 17.8%)
+DESCRIPTION:Zaćmienie SŁOŃCE widoczne z lokalizacji: Żagań.\nMaksimum: 2008-08-01 09:40:42 UTC\nMagnituda: 0.286\nObscuration / Powierzchnia: 17.8%\nWysokość: 52.4° | Azymut: 145.9°
+LOCATION:Żagań (51.6174°N\, 15.3082°E)
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Jutro zaćmienie SŁOŃCE - Żagań!
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:Za godzinę rozpocznie się zaćmienie SŁOŃCE!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:eclipse-20080221T032631@żagań.astro
+DTSTAMP:20080221T032631Z
+DTSTART:20080221T003847Z
+DTEND:20080221T060616Z
+SUMMARY:Zaćmienie Księżyc - Żagań (Obscuration 108.1%)
+DESCRIPTION:Zaćmienie KSIĘŻYC widoczne z lokalizacji: Żagań.\nMaksimum: 2008-02-21 03:26:31 UTC\nMagnituda: 1.081\nObscuration / Powierzchnia: 108.1%\nWysokość: 23.6° | Azymut: 255.4°
+LOCATION:Żagań (51.6174°N\, 15.3082°E)
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Jutro zaćmienie KSIĘŻYC - Żagań!
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:Za godzinę rozpocznie się zaćmienie KSIĘŻYC!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:eclipse-20070303T232106@żagań.astro
+DTSTAMP:20070303T232106Z
+DTSTART:20070303T202124Z
+DTEND:20070304T022049Z
+SUMMARY:Zaćmienie Księżyc - Żagań (Obscuration 120.7%)
+DESCRIPTION:Zaćmienie KSIĘŻYC widoczne z lokalizacji: Żagań.\nMaksimum: 2007-03-03 23:21:06 UTC\nMagnituda: 1.207\nObscuration / Powierzchnia: 120.7%\nWysokość: 44.6° | Azymut: 183.5°
+LOCATION:Żagań (51.6174°N\, 15.3082°E)
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Jutro zaćmienie KSIĘŻYC - Żagań!
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:Za godzinę rozpocznie się zaćmienie KSIĘŻYC!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:eclipse-20060907T185003@żagań.astro
+DTSTAMP:20060907T185003Z
+DTSTART:20060907T173410Z
+DTEND:20060907T205351Z
+SUMMARY:Zaćmienie Księżyc - Żagań (Obscuration 15.8%)
+DESCRIPTION:Zaćmienie KSIĘŻYC widoczne z lokalizacji: Żagań.\nMaksimum: 2006-09-07 18:50:03 UTC\nMagnituda: 0.158\nObscuration / Powierzchnia: 15.8%\nWysokość: 10.4° | Azymut: 116.5°
+LOCATION:Żagań (51.6174°N\, 15.3082°E)
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Jutro zaćmienie KSIĘŻYC - Żagań!
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:Za godzinę rozpocznie się zaćmienie KSIĘŻYC!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:eclipse-20060329T105106@żagań.astro
+DTSTAMP:20060329T105106Z
+DTSTART:20060329T095120Z
+DTEND:20060329T115052Z
+SUMMARY:Zaćmienie Słońce - Żagań (Obscuration 36.6%)
+DESCRIPTION:Zaćmienie SŁOŃCE widoczne z lokalizacji: Żagań.\nMaksimum: 2006-03-29 10:51:06 UTC\nMagnituda: 0.473\nObscuration / Powierzchnia: 36.6%\nWysokość: 41.7° | Azymut: 175.8°
+LOCATION:Żagań (51.6174°N\, 15.3082°E)
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Jutro zaćmienie SŁOŃCE - Żagań!
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:Za godzinę rozpocznie się zaćmienie SŁOŃCE!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:eclipse-20060314T234725@żagań.astro
+DTSTAMP:20060314T234725Z
+DTSTART:20060314T212738Z
+DTEND:20060315T020711Z
+SUMMARY:Zaćmienie Księżyc - Żagań (Obscuration 0.0%)
+DESCRIPTION:Zaćmienie KSIĘŻYC widoczne z lokalizacji: Żagań.\nMaksimum: 2006-03-14 23:47:25 UTC\nMagnituda: 0.0\nObscuration / Powierzchnia: 0.0%\nWysokość: 40.2° | Azymut: 192.5°
+LOCATION:Żagań (51.6174°N\, 15.3082°E)
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Jutro zaćmienie KSIĘŻYC - Żagań!
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:Za godzinę rozpocznie się zaćmienie KSIĘŻYC!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:eclipse-20051003T091610@żagań.astro
+DTSTAMP:20051003T091610Z
+DTSTART:20051003T080428Z
+DTEND:20051003T102753Z
+SUMMARY:Zaćmienie Słońce - Żagań (Obscuration 38.3%)
+DESCRIPTION:Zaćmienie SŁOŃCE widoczne z lokalizacji: Żagań.\nMaksimum: 2005-10-03 09:16:10 UTC\nMagnituda: 0.498\nObscuration / Powierzchnia: 38.3%\nWysokość: 31.0° | Azymut: 153.1°
+LOCATION:Żagań (51.6174°N\, 15.3082°E)
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Jutro zaćmienie SŁOŃCE - Żagań!
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:Za godzinę rozpocznie się zaćmienie SŁOŃCE!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:eclipse-20041028T030323@żagań.astro
+DTSTAMP:20041028T030323Z
+DTSTART:20041028T001140Z
+DTEND:20041028T055906Z
+SUMMARY:Zaćmienie Księżyc - Żagań (Obscuration 128.3%)
+DESCRIPTION:Zaćmienie KSIĘŻYC widoczne z lokalizacji: Żagań.\nMaksimum: 2004-10-28 03:03:23 UTC\nMagnituda: 1.283\nObscuration / Powierzchnia: 128.3%\nWysokość: 24.9° | Azymut: 258.9°
+LOCATION:Żagań (51.6174°N\, 15.3082°E)
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Jutro zaćmienie KSIĘŻYC - Żagań!
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:Za godzinę rozpocznie się zaćmienie KSIĘŻYC!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:eclipse-20040504T202927@żagań.astro
+DTSTAMP:20040504T202927Z
+DTSTART:20040504T181740Z
+DTEND:20040504T230512Z
+SUMMARY:Zaćmienie Księżyc - Żagań (Obscuration 127.9%)
+DESCRIPTION:Zaćmienie KSIĘŻYC widoczne z lokalizacji: Żagań.\nMaksimum: 2004-05-04 20:29:27 UTC\nMagnituda: 1.279\nObscuration / Powierzchnia: 127.9%\nWysokość: 13.9° | Azymut: 144.0°
+LOCATION:Żagań (51.6174°N\, 15.3082°E)
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Jutro zaćmienie KSIĘŻYC - Żagań!
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:Za godzinę rozpocznie się zaćmienie KSIĘŻYC!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:eclipse-20031109T011722@żagań.astro
+DTSTAMP:20031109T011722Z
+DTSTART:20031108T222138Z
+DTEND:20031109T041704Z
+SUMMARY:Zaćmienie Księżyc - Żagań (Obscuration 99.2%)
+DESCRIPTION:Zaćmienie KSIĘŻYC widoczne z lokalizacji: Żagań.\nMaksimum: 2003-11-09 01:17:22 UTC\nMagnituda: 0.992\nObscuration / Powierzchnia: 99.2%\nWysokość: 42.7° | Azymut: 235.3°
+LOCATION:Żagań (51.6174°N\, 15.3082°E)
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Jutro zaćmienie KSIĘŻYC - Żagań!
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:Za godzinę rozpocznie się zaćmienie KSIĘŻYC!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:eclipse-20030531T032406@żagań.astro
+DTSTAMP:20030531T032406Z
+DTSTART:20030531T024815Z
+DTEND:20030531T042352Z
+SUMMARY:Zaćmienie Słońce - Żagań (Obscuration 79.0%)
+DESCRIPTION:Zaćmienie SŁOŃCE widoczne z lokalizacji: Żagań.\nMaksimum: 2003-05-31 03:24:06 UTC\nMagnituda: 0.852\nObscuration / Powierzchnia: 79.0%\nWysokość: 4.0° | Azymut: 58.9°
+LOCATION:Żagań (51.6174°N\, 15.3082°E)
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Jutro zaćmienie SŁOŃCE - Żagań!
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:Za godzinę rozpocznie się zaćmienie SŁOŃCE!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:eclipse-20030516T031200@żagań.astro
+DTSTAMP:20030516T031200Z
+DTSTART:20030516T011211Z
+DTEND:20030516T031200Z
+SUMMARY:Zaćmienie Księżyc - Żagań (Obscuration 95.2%)
+DESCRIPTION:Zaćmienie KSIĘŻYC widoczne z lokalizacji: Żagań.\nMaksimum: 2003-05-16 03:12:00 UTC\nMagnituda: 0.952\nObscuration / Powierzchnia: 95.2%\nWysokość: -0.1° | Azymut: 238.8°
+LOCATION:Żagań (51.6174°N\, 15.3082°E)
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Jutro zaćmienie KSIĘŻYC - Żagań!
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:Za godzinę rozpocznie się zaćmienie KSIĘŻYC!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:eclipse-20021120T014539@żagań.astro
+DTSTAMP:20021120T014539Z
+DTSTART:20021119T233751Z
+DTEND:20021120T035327Z
+SUMMARY:Zaćmienie Księżyc - Żagań (Obscuration 0.0%)
+DESCRIPTION:Zaćmienie KSIĘŻYC widoczne z lokalizacji: Żagań.\nMaksimum: 2002-11-20 01:45:39 UTC\nMagnituda: 0.0\nObscuration / Powierzchnia: 0.0%\nWysokość: 41.1° | Azymut: 244.0°
+LOCATION:Żagań (51.6174°N\, 15.3082°E)
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Jutro zaćmienie KSIĘŻYC - Żagań!
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:Za godzinę rozpocznie się zaćmienie KSIĘŻYC!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:eclipse-20020624T212623@żagań.astro
+DTSTAMP:20020624T212623Z
+DTSTART:20020624T203028Z
+DTEND:20020624T222617Z
+SUMMARY:Zaćmienie Księżyc - Żagań (Obscuration 0.0%)
+DESCRIPTION:Zaćmienie KSIĘŻYC widoczne z lokalizacji: Żagań.\nMaksimum: 2002-06-24 21:26:23 UTC\nMagnituda: 0.0\nObscuration / Powierzchnia: 0.0%\nWysokość: 10.0° | Azymut: 158.3°
+LOCATION:Żagań (51.6174°N\, 15.3082°E)
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Jutro zaćmienie KSIĘŻYC - Żagań!
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:Za godzinę rozpocznie się zaćmienie KSIĘŻYC!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:eclipse-20010109T202025@żagań.astro
+DTSTAMP:20010109T202025Z
+DTSTART:20010109T174839Z
+DTEND:20010109T225210Z
+SUMMARY:Zaćmienie Księżyc - Żagań (Obscuration 116.4%)
+DESCRIPTION:Zaćmienie KSIĘŻYC widoczne z lokalizacji: Żagań.\nMaksimum: 2001-01-09 20:20:25 UTC\nMagnituda: 1.164\nObscuration / Powierzchnia: 116.4%\nWysokość: 46.1° | Azymut: 116.6°
+LOCATION:Żagań (51.6174°N\, 15.3082°E)
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Jutro zaćmienie KSIĘŻYC - Żagań!
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:Za godzinę rozpocznie się zaćmienie KSIĘŻYC!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:eclipse-20000121T044426@żagań.astro
+DTSTAMP:20000121T044426Z
+DTSTART:20000121T020841Z
+DTEND:20000121T070013Z
+SUMMARY:Zaćmienie Księżyc - Żagań (Obscuration 130.0%)
+DESCRIPTION:Zaćmienie KSIĘŻYC widoczne z lokalizacji: Żagań.\nMaksimum: 2000-01-21 04:44:26 UTC\nMagnituda: 1.3\nObscuration / Powierzchnia: 130.0%\nWysokość: 18.3° | Azymut: 277.8°
+LOCATION:Żagań (51.6174°N\, 15.3082°E)
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Jutro zaćmienie KSIĘŻYC - Żagań!
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:Za godzinę rozpocznie się zaćmienie KSIĘŻYC!
+END:VALARM
+END:VEVENT
+END:VCALENDAR
